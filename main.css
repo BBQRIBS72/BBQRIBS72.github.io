@@ -31,7 +31,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://yoyotricks.com/wp-content/uploads/2013/12/Sage-Yoyo_00.jpg');
+  background-image: url('https://q7okq2uazqs383le92swa3h1-wpengine.netdna-ssl.com/wp-content/themes/pure/assets/img/illo-madeforyou.svg');
   background-size: cover;
   color: #ffffff;
   height: 500px;
@@ -53,6 +53,8 @@ header p {
 section .row img {
   margin: 0 0 30px;
   width: 100%;
+  border-radius: 4px;
+  border: 4px;
 }
 
 .col-md-6 {
