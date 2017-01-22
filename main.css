@@ -60,22 +60,22 @@ section .row img {
 }
 
 .btn.btn-primary {
-  border-radius: 2px;
+  border-radius: 4px;
   border: 0px;
-  color: #9B2A12;
+  color: #FF0000;
   text-shadow: none;
-  background-color: #085D0F;
+  background-color: #0000ff;
 }
 
 .btn.btn-primary:hover {
-  color: #9B2A12;
-  background-color: #085D0F;
+  color: #ff0000;
+  background-color: #0000ff;
 }
 
 .btn-secondary {
   background-color: #E8DFE0;
   color: #ffffff;
-  margin: 0 0 30px;
+  margin: 0 0 20px;
 }
 
 footer {
